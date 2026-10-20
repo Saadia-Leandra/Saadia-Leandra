@@ -88,4 +88,3 @@ Preuve de concept d'un système de contrôle d'avion piloté par un Raspberry Pi
 
 - Email : [saadialeandra@gmail.com](mailto:saadialeandra@gmail.com)
 - GitHub : [Saadia-Leandra](https://github.com/Saadia-Leandra)
-- LinkedIn : [À COMPLÉTER]
